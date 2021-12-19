@@ -1,17 +1,19 @@
 # Contact Information
 
-**Suho Park**
+### Suho Park
 
-Degree : Undergraduate student, Department of Mathematics, Kyung Hee University(Expected to graduate in February 2022)
+👨🏻‍🎓 Degree : Undergraduate student, Department of Mathematics, Kyung Hee University
 
-E-mail : psuhoo@khu.ac.kr
+​					(Expected to graduate in February 2022)
 
-Area of Interest : Back-end Engineer(Java), Autonomous Driving, Artificial Intelligence(AI), Deep Learning, BigData
+✉️ E-mail : psuhoo@khu.ac.kr
 
-Main Technology : Java, MySQL, Spring, Mybatis
+📖 Area of Interest : Back-end Engineer(Java), Autonomous Driving, Artificial Intelligence(AI), Deep Learning, BigData
 
-Homepage(Google) : http://sites.google.com/khu.ac.kr/shpark-math
+⌨️ Main Technology : Java, MySQL, Spring, Mybatis
 
-Homepage(Notion) : https://wooden-rain-1b7.notion.site/Su-ho-Park-32852c29246249e689c7cce81cbd3207
+🌐 Homepage(Google) : http://sites.google.com/khu.ac.kr/shpark-math
 
-Homepage(GitHub) : https://github.com/math-shpark
+🌐 Homepage(Notion) : https://wooden-rain-1b7.notion.site/Su-ho-Park-32852c29246249e689c7cce81cbd3207
+
+🌐 Homepage(GitHub) : https://github.com/math-shpark
