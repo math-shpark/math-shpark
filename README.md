@@ -6,7 +6,7 @@ Degree : Undergraduate student, Department of Mathematics, Kyung Hee University(
 
 E-mail : psuhoo@khu.ac.kr
 
-Desired Job : Back-end Engineer
+Area of Interest : Back-end Engineer(Java), Autonomous Driving, Artificial Intelligence(AI), Deep Learning, BigData
 
 Main Technology : Java, MySQL, Spring, Mybatis
 
