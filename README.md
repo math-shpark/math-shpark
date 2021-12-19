@@ -6,7 +6,7 @@
 
 ​					(Expected to graduate in February 2022)
 
-✉️ E-mail : psuhoo@khu.ac.kr
+✉️ E-mail : psuhoo122065@gmail.com
 
 📖 Area of Interest : Back-end Engineer(Java), Autonomous Driving, Artificial Intelligence(AI), Deep Learning, BigData
 
