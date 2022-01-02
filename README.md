@@ -14,7 +14,7 @@
 
 ⌨️ Main Technology : Java, MySQL, Spring, Mybatis
 
-🌐 Homepage(Google) : http://sites.google.com/khu.ac.kr/shpark-math
+🌐 Homepage(Google) : https://sites.google.com/view/shpark-math
 
 🌐 Homepage(Notion) : https://wooden-rain-1b7.notion.site/Su-ho-Park-32852c29246249e689c7cce81cbd3207
 
