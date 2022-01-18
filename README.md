@@ -8,6 +8,8 @@
 
 ✉️ E-mail 2 : psuhoo@naver.com
 
+✉️ E-mail 3 : psuhoo@khu.ac.kr
+
 📖 Area of Interest : Back-end Engineer(Java), Autonomous Driving, Artificial Intelligence(AI), Deep Learning, BigData
 
 ⌨️ Main Technology : Java, MySQL, Spring, Mybatis
