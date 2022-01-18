@@ -2,9 +2,7 @@
 
 ### Suho Park
 
-👨🏻‍🎓 Degree : Undergraduate student, Department of Mathematics, Kyung Hee University
-
-​					(Expected to graduate in February 2022)
+👨🏻‍🎓 Degree : B.S. in Mathematics,  kyungHee University,  2022. 2
 
 ✉️ E-mail 1 : psuhoo122065@gmail.com
 
