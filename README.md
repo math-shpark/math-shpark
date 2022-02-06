@@ -1,6 +1,6 @@
 # Contact Information
 
-### Soo-ho Park
+### Su-ho Park
 
 👨🏻‍🎓 Degree : B.S. in Mathematics,  kyungHee University,  2022. 2
 
