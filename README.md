@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:E5FAFF,100:A7EFFB&height=300&section=header&text=Suho%20Park&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E5FAFF,100:A7EFFB&height=200&section=header&text=Suho%20Park&fontSize=50&fontColor=6DE7FF)
 
 ### Contact Information
 
