@@ -8,8 +8,6 @@
 
 🌐 Homepage(Profile) : [https://wooden-rain-1b7.notion.site/Su-ho-Park-32852c29246249e689c7cce81cbd3207](https://tough-bracket-2d7.notion.site/Su-ho-Park-f936184a2e9e4e51a5dcab56f78af667)
 
-🌐 Homepage(GitHub) : https://github.com/math-shpark
-
 
 
 ### GitHub Stats & Top Languages
