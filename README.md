@@ -12,7 +12,7 @@
 
 ### GitHub Stats & Top Languages
 
-![math-shpark's GitHub stats](https://github-readme-stats.vercel.app/api?username=math-shpark&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-shpark&layout=compact)](https://github.com/math-shpark/github-readme-stats)
+![math-shpark's GitHub stats](https://github-readme-stats.vercel.app/api?username=math-shpark&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-shpark&layout=compact)](https://github.com/math-shpark/github-readme-stats)
 
 ### Algorithm
 
