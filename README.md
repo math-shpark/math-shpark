@@ -1,15 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E5FAFF,100:A7EFFB&height=200&section=header&text=Suho%20Park&fontSize=50&fontColor=6DE7FF)
 
-### Contact Information
-
-✉️ E-mail : psuhoo122065@gmail.com
-
-🌐 Homepage(Tistory) : https://mathshpark-coding.tistory.com/
-
-🌐 Homepage(Profile) : [Notion](https://parksuho.notion.site/Su-ho-Park-f936184a2e9e4e51a5dcab56f78af667)
-
-
-
 ### GitHub Stats & Top Languages
 
 ![math-shpark's GitHub stats](https://github-readme-stats.vercel.app/api?username=math-shpark&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-shpark&layout=compact)](https://github.com/math-shpark/github-readme-stats)
